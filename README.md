@@ -4,7 +4,13 @@
 
 Make sure you have node installed in your computer.
 
-``` npm install ```
+```
+ npm install 
+ 
+ ```
+packages to install
+- UUID
+- Nodemon
 
 ## Concepts learnt
 1. Configuring node server
